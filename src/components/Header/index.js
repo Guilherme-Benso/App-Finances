@@ -27,7 +27,7 @@ export default function Header({ name }){
             }}
             transition={{
                 type:'timing',
-                duration:800,
+                duration:400,
                 delay:200,
             }}
             >
@@ -42,8 +42,8 @@ export default function Header({ name }){
                 }}
                 transition={{
                     type:'timing',
-                    duration:800,
-                    delay:800
+                    duration:400,
+                    delay:400
                 }}
 
                 >{ name }</MotiText>
