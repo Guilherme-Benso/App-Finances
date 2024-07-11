@@ -1,16 +1,20 @@
-# App-Finances
-## 📝 Resumo do projeto
-Front end de aplicativo desenvolvido com React Native pra o gerenciamento de receita e gastos do usuário
+# Finance app
+## 📝 Project summary
+Front end application developed with React Native to manage the user account.
 
-## ✔️ Técnicas e tecnologias utilizadas
+## ✔️ Technologies used
 
 - ``React-Native``
 - ``Javascript``
 
 
-## Prévia da aplicação
+## Application preview
 
 
 https://user-images.githubusercontent.com/101438815/210244864-ed6b39e9-a6c8-4ee6-b908-841aeb9a7ba4.mp4
 
 
+
+## How to run
+
+1- Clone this project
